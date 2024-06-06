@@ -3,7 +3,6 @@
 - [*] Удален lodash из списка peer dependencies
 - [*] Добавлен хук usePreventDefaultTouchMove
 
-
 # v6.0.0
 
 - [*] checkDev: добавлен аргумент apiUrl
